@@ -3,5 +3,5 @@ This is a project to scrape a table from https://en.wikipedia.org/wiki/List_of_l
 
 # Installation
 pip install beautifulsoup4 and
-pip install Requests
+pip install Requests.
 
